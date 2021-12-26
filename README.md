@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @SeifKhdija
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SeifKhdija/SeifKhdija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @SeifKhdija, Passionate about statistics and programming, which led me to pursue a liscence in Computer Science, followed by a Master degree M1 in Information Systems Engineering and a Master degree M2 in data science.
+I enjoy manipulating data and finding creative solutions to problems.
+I like teamwork and meeting new people to learn from. I prefer working in groups and interact with others.
